@@ -1,0 +1,34 @@
+
+# Data processing
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine learning and imbalance handling
+scikit-learn
+imbalanced-learn
+xgboost
+catboost
+lightgbm
+
+# Model serialization
+joblib
+
+# API backend
+fastapi
+uvicorn[standard]
+pydantic
+
+# Frontend
+streamlit
+requests
+
+# Explainability
+shap
+
+# Notebook environment
+jupyterlab
+ipykernel
