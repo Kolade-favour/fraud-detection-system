@@ -2,6 +2,7 @@
 # Data processing
 numpy
 pandas
+scipy
 
 # Visualization
 matplotlib
