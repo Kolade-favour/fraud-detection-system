@@ -33,3 +33,9 @@ shap
 # Notebook environment
 jupyterlab
 ipykernel
+
+# MySQL database connector
+mysql-connector-python==26.10.0
+
+# python -dotenv
+python-dotenv
